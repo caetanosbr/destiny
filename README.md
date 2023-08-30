@@ -26,4 +26,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Deploy:
-[Clicque aqui para acessar o Projeto!](https://caetanosbr.github.io/FocusTimer/)
+[Clicque aqui para acessar o Projeto!](https://caetanosbr.github.io/proximodestino/)
